@@ -7,3 +7,4 @@ For visibility and transparency please all all nominations to this file using th
 ## Election 0 - Due: 10/06/2017
 
 Phil Estes estesp@gmail.com
+Laura Frank laura@codeship.com
