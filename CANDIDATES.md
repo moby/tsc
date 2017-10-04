@@ -8,3 +8,5 @@ For visibility and transparency please all all nominations to this file using th
 
 Phil Estes estesp@gmail.com
 Laura Frank laura@codeship.com
+Justin Cormack justin.cormack@docker.com
+Stephen Day stephen.day@docker.com
