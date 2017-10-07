@@ -13,3 +13,4 @@ For visibility and transparency please all all nominations to this file using th
 * Stephen Day stephen.day@docker.com
 * Stefan Scherer scherer_stefan@icloud.com
 * Tianon Gravi admwiggin@gmail.com
+* Arnaud Porterie arnaud.porterie@gmail.com
