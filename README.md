@@ -71,8 +71,8 @@ tsc@mobyproject.org
 
 * [InfraKit](https://github.com/docker/infrakit)
 * [LinuxKit](https://github.com/linuxkit/linuxkit)
+* [Moby](https://github.com/moby/moby)
 * [SwarmKit](https://github.com/docker/swarmkit)
 * [containerd](https://github.com/containerd/containerd)
 * [libnetwork](https://github.com/docker/libnetwork)
-* [moby core](https://github.com/moby/moby)
 * [notary](https://github.com/docker/notary)
