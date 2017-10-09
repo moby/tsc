@@ -14,3 +14,4 @@ For visibility and transparency please all all nominations to this file using th
 * Stefan Scherer scherer_stefan@icloud.com
 * Tianon Gravi admwiggin@gmail.com
 * Arnaud Porterie arnaud.porterie@gmail.com
+* Sebastiaan van Stijn sebastiaan.vanstijn@docker.com
