@@ -4,9 +4,8 @@ For visibility and transparency please all all nominations to this file using th
 
 * Name email@email.com
 
-## Election 0 - Due: 10/06/2017
+## Election 0 - Due: 10/13/2017
 
-* Michael Crosby michael.crosby@docker.com
 * Phil Estes estesp@gmail.com
 * Laura Frank laura@codeship.com
 * Justin Cormack justin.cormack@docker.com
