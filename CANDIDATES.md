@@ -9,7 +9,7 @@ For visibility and transparency please all all nominations to this file using th
 ### Status: CLOSED
 
 * Phil Estes estesp@gmail.com
-* Laura Frank laura@codeship.com
+* Laura Frank ljfrank@gmail.com
 * Justin Cormack justin.cormack@docker.com
 * Stephen Day stephen.day@docker.com
 * Stefan Scherer scherer_stefan@icloud.com
