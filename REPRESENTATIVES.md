@@ -2,7 +2,7 @@ List of representative for each project that will cast the ballot:
 
 * [InfraKit](https://github.com/docker/infrakit)
 * [LinuxKit](https://github.com/linuxkit/linuxkit)
-    - Rolf Neugebauer rolf.neugebauer@docker.com
+    - Rolf Neugebauer rn@rneugeba.io
 * [Moby](https://github.com/moby/moby)
 	- Brian Goff brian.goff@docker.com
 * [SwarmKit](https://github.com/docker/swarmkit)
