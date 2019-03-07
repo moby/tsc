@@ -73,6 +73,5 @@ tsc@mobyproject.org
 * [LinuxKit](https://github.com/linuxkit/linuxkit)
 * [Moby](https://github.com/moby/moby)
 * [SwarmKit](https://github.com/docker/swarmkit)
-* [containerd](https://github.com/containerd/containerd)
 * [libnetwork](https://github.com/docker/libnetwork)
 * [notary](https://github.com/docker/notary)
