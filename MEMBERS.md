@@ -5,7 +5,6 @@
 * Phil Estes estesp@gmail.com
 * Laura Frank ljfrank@gmail.com
 * Justin Cormack justin.cormack@docker.com
-* Stefan Scherer scherer_stefan@icloud.com
 * Tianon Gravi admwiggin@gmail.com
 * Arnaud Porterie arnaud.porterie@gmail.com
 * Sebastiaan van Stijn sebastiaan.vanstijn@docker.com
