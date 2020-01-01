@@ -1,6 +1,6 @@
 # Members of the TSC
 
-## Seat Term 11-13-2017 to 11-13-2019
+## Seat Term 11-13-2017 to 11-13-2019 (*Extended to 03-31-2020*)
 
 * Phil Estes estesp@gmail.com
 * Laura Frank ljfrank@gmail.com
